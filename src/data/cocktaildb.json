@@ -1,0 +1,40 @@
+[
+	{	
+		"name": "Long Island Iced Tea",
+		"images":
+		[
+		"https://www.long-island-iced-tea.com/en/images/long-island-iced-tea-cocktail2.jpg",
+		"https://magprod-1a27b.kxcdn.com/wp-content/uploads/2022/03/long-island-iced-tea-uk.webp"
+		],
+				"alcohols":
+				[				
+					"Vodka 1/4 ounce", 
+					"Triple Sec 1/4 ounce"
+				],
+			
+				"juices": 
+				[
+					"Coca Cola 1 ounce"
+				],
+				"garnish": "Lemon"
+	},
+	{
+		"name": "Screwdriver",
+		"images":
+		[
+		"https://storage.googleapis.com/mix-recipes-prod/uploads/photo/image/693/recipe_image_photo-1.jpg",
+		"https://images.slurrp.com/prod/recipe_images/mix-that-drink/screwdriver-1615988914_09AKA8MTRZBH3UY82BTW.webp?impolicy=slurrp-20210601&width=1200&height=675"
+		],
+	
+				"alcohols":
+				[			
+					"Vodka 1 ounce"
+				],
+			
+				"juices": 
+				[
+					"Orange Juice 1 ounce"
+				],
+				"garnish": "Orange"
+	}
+]

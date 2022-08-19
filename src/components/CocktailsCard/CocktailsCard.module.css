@@ -1,0 +1,21 @@
+.CocktailsCard {
+    
+}
+
+.imground {
+    border-radius: 15px;
+}
+
+li {
+    list-style-position: inside;
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+.imageresize {
+    width: 200px;
+    height: 200px;
+}
