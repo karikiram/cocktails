@@ -3,6 +3,7 @@
 		"name": "Long Island Iced Tea",
 		"images":
 		[
+		"/longIslandIceTeaBlur.png",
 		"https://www.long-island-iced-tea.com/en/images/long-island-iced-tea-cocktail2.jpg",
 		"https://magprod-1a27b.kxcdn.com/wp-content/uploads/2022/03/long-island-iced-tea-uk.webp"
 		],
@@ -36,5 +37,25 @@
 					"Orange Juice 1 ounce"
 				],
 				"garnish": "Orange"
+	},
+	{
+		"name": "Tequila Sunrise",
+		"images":
+		[
+		"https://mybartender.com/wp-content/uploads/2021/04/Tequila-Sunrise.jpg",
+		"https://trinkreif.de/wp-content/uploads/tequila-sunrise-cocktail-rezept-768x512.jpg"
+		],
+	
+				"alcohols":
+				[			
+					"Tequila 1 ounce"
+				],
+			
+				"juices": 
+				[
+					"Granadine 1 ounce",
+					"Orange juice 1 ounce"
+				],
+				"garnish": "Umbrella"
 	}
 ]
